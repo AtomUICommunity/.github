@@ -4,82 +4,58 @@
 
 # AtomUI Community
 
-**Building the UI infrastructure for AI-era software development.**
-
-The open ecosystem co-creating [AtomUI](https://github.com/AtomUI/AtomUI) — the Ant Design 6
-component system for Avalonia/.NET desktop applications.
+**Co-creating the UI foundation for AI-era software development.**
 
 [![Website](https://img.shields.io/badge/website-atomui.net-1677ff?style=flat-square)](https://www.atomui.net)
-[![NuGet](https://img.shields.io/nuget/v/AtomUI.Desktop.Controls?style=flat-square&logo=nuget&label=NuGet)](https://www.nuget.org/packages/AtomUI.Desktop.Controls)
+[![AtomUI](https://img.shields.io/badge/AtomUI-main%20repo-1677ff?style=flat-square)](https://github.com/AtomUI/AtomUI)
 [![License](https://img.shields.io/badge/license-LGPL--3.0-white?labelColor=black&style=flat-square)](https://github.com/AtomUI/AtomUI/blob/master/LICENSE)
 
 </div>
 
-## Our mission
+## Why we exist
 
-Software development is entering an AI-native era. Coding agents now write a growing share of
-production code, and the applications they assemble are only as trustworthy as the infrastructure
-they stand on. No layer of that stack is harder — or more decisive — than UI, because UI is where
-design intent and engineering discipline must meet.
+Software is being rebuilt around AI. Agents write more of the code every day, and they — like
+the people they build for — deserve foundations that are open, dependable, and owned by the
+community that relies on them, not locked inside any single company.
 
-AtomUI exists to be that foundation: the Ant Design 6 design language and enterprise component
-system for Avalonia/.NET, engineered so that humans **and** AI agents can build desktop
-applications on it with confidence — on Windows, macOS and Linux, from a single C#/XAML codebase.
+UI is where that foundation meets the world. That is the layer
+[AtomUI](https://github.com/AtomUI/AtomUI) serves: an open-source Ant Design 6 component system
+for Avalonia/.NET desktop applications. This organization is where the ecosystem around it grows.
 
-AtomUI Community is where this foundation is built and adopted **together**: applications, tools,
-templates and showcases from real projects, with every lesson flowing back into the platform.
+We hold three beliefs:
 
-## Why AtomUI is built for the AI era
+- **Infrastructure should be open.** The base layers of the AI era must be built in public and
+  free to build upon.
+- **Infrastructure should be proven.** It earns trust through real applications in production,
+  not through promises.
+- **Infrastructure should be shared.** Every project built here feeds its lessons back into the
+  foundation, and every contributor shapes what comes next.
 
-- **Design tokens as contracts.** The full Ant Design token model is expressed as
-  machine-readable, themeable data on top of Avalonia's resource system — a structured agreement
-  between design and code that scales from one app to an entire product line.
-- **Generators over reflection.** Source generators produce controls, theme tokens, localization
-  and startup registration at compile time, giving builds that are deterministic, static and
-  first-class NativeAOT citizens — exactly the properties agents and compilers can rely on.
-- **Enterprise interaction patterns, built in.** A complete control system for layout,
-  navigation, data entry, feedback and data display, with opt-in
-  [DataGrid](https://www.nuget.org/packages/AtomUI.Desktop.Controls.DataGrid),
-  [ColorPicker](https://www.nuget.org/packages/AtomUI.Desktop.Controls.ColorPicker) and
-  [Extras](https://www.nuget.org/packages/AtomUI.Desktop.Controls.Extras) packages.
-- **Global by default.** English, Simplified Chinese and Traditional Chinese localization out of
-  the box, driven by compiled translation bundles.
-- **Native performance, AI-native apps.** Real AtomUI applications already ship as NativeAOT
-  single-file binaries — including AI agent clients, where the desktop is rapidly becoming the
-  place where agents do real work.
+## What we do here
 
-## What you'll find here
-
-This organization is the co-building space of the AtomUI ecosystem: applications built on AtomUI,
-developer tooling, templates and real-world showcases — each one proof of the platform, each one
-feedback into it.
+- **Build** — applications, tools and templates that run on AtomUI in the real world.
+- **Showcase** — collect and highlight community projects that put the platform to the test.
+- **Feed back** — turn real-world experience into issues, discussions and improvements in
+  AtomUI itself.
 
 ## Featured projects
 
 | Project | What it is |
 | --- | --- |
-| [TCode](https://github.com/AtomUICommunity/TCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
-| [AegisVault (玄钥)](https://github.com/iamartinlong/AegisVault) | Community showcase: a local-first, zero-knowledge password manager shipping NativeAOT single-file builds for Windows, Linux and macOS (Apple silicon & Intel). |
+| [TCode](https://github.com/AtomUICommunity/TCode) | A desktop client for AI coding agents — software for the AI era, built on our foundation. |
+| [AegisVault (玄钥)](https://github.com/iamartinlong/AegisVault) | A local-first password manager by a community developer, shipping on Windows, macOS and Linux. |
 
-## Useful links
+## Build with us
 
-- **Main repository**: [AtomUI/AtomUI](https://github.com/AtomUI/AtomUI)
-- **Website & documentation**: [www.atomui.net](https://www.atomui.net)
-- **NuGet packages**: [AtomUI.Desktop.Controls](https://www.nuget.org/packages/AtomUI.Desktop.Controls)
-- **Community channels** (Telegram / WhatsApp / WeChat / QQ): see the
-  [main README](https://github.com/AtomUI/AtomUI#community)
-
-## Build the foundation with us
-
-The AI-era desktop needs open, trustworthy UI infrastructure — and infrastructure is a
-team sport.
+Infrastructure is a team sport. Whether you're shipping a product, a tool, or an idea — if it
+runs on AtomUI, it belongs here.
 
 - ⭐ Star and watch [AtomUI/AtomUI](https://github.com/AtomUI/AtomUI)
 - 🐛 Report bugs or request features in [Issues](https://github.com/AtomUI/AtomUI/issues)
-- 🚀 Building something with AtomUI? We'd love to feature it here — reach us through the community
-  channels above, and help shape the platform your product stands on.
+- 🚀 Building something with AtomUI? Reach us through the
+  [community channels](https://github.com/AtomUI/AtomUI#community) — we'd love to feature it.
 
 ## License
 
-AtomUI is licensed under [LGPL-3.0](https://github.com/AtomUI/AtomUI/blob/master/LICENSE).
-Ecosystem repositories may carry their own licenses — please check each project.
+AtomUI is [LGPL-3.0](https://github.com/AtomUI/AtomUI/blob/master/LICENSE); ecosystem projects
+carry their own licenses — check each repository.

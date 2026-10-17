@@ -55,7 +55,3 @@ runs on AtomUI, it belongs here.
 - 🚀 Building something with AtomUI? Reach us through the
   [community channels](https://github.com/AtomUI/AtomUI#community) — we'd love to feature it.
 
-## License
-
-AtomUI is [LGPL-3.0](https://github.com/AtomUI/AtomUI/blob/master/LICENSE); ecosystem projects
-carry their own licenses — check each repository.

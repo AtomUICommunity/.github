@@ -36,12 +36,18 @@ We hold three beliefs:
 - **Feed back** — turn real-world experience into issues, discussions and improvements in
   AtomUI itself.
 
-## Featured projects
+## Projects
+
+Five projects, one foundation: an AI coding client and the streaming text layer behind it, plus
+native tools for the work developers do every day.
 
 | Project | What it is |
 | --- | --- |
 | [TCode](https://github.com/AtomUICommunity/TCode) | A desktop client for AI coding agents — software for the AI era, built on our foundation. |
-| [AegisVault (玄钥)](https://github.com/iamartinlong/AegisVault) | A local-first password manager by a community developer, shipping on Windows, macOS and Linux. |
+| [StreamMark](https://github.com/AtomUICommunity/StreamMark) | A native, streaming-first Markdown renderer for Avalonia — the text layer behind AI chat experiences. |
+| [CxShell](https://github.com/AtomUICommunity/CxShell) | A cross-platform remote session client: terminals, file transfer, server monitoring and remote desktops in one workspace. |
+| [RedisMe](https://github.com/AtomUICommunity/RedisMe) | A native Redis desktop client for browsing and editing data across standalone, Sentinel and Cluster deployments. |
+| [AegisVault (玄钥)](https://github.com/AtomUICommunity/AegisVault) | A local-first, zero-knowledge password manager for Windows, macOS and Linux. |
 
 ## Build with us
 

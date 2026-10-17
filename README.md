@@ -54,12 +54,15 @@ This organization is the co-building space of the AtomUI ecosystem: applications
 developer tooling, templates and real-world showcases — each one proof of the platform, each one
 feedback into it.
 
-## Featured projects
+## Projects
 
 | Project | What it is |
 | --- | --- |
 | [TCode](https://github.com/AtomUICommunity/TCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
-| [AegisVault (玄钥)](https://github.com/iamartinlong/AegisVault) | Community showcase: a local-first, zero-knowledge password manager shipping NativeAOT single-file builds for Windows, Linux and macOS (Apple silicon & Intel). |
+| [StreamMark](https://github.com/AtomUICommunity/StreamMark) | Streaming-first Markdown rendering for Avalonia: frozen stable blocks, healed tail, native self-drawn text with no WebView. Backs TCode's chat views. |
+| [CxShell](https://github.com/AtomUICommunity/CxShell) | A cross-platform SSH/SFTP and remote session client: multi-tab terminal, transfer panels, server monitoring, RDP, and classic network or serial protocols in one workspace. |
+| [RedisMe](https://github.com/AtomUICommunity/RedisMe) | A native Redis desktop client with an accordion connection tree and tabbed key, status and CLI views. SCAN-based browsing and full editors for every Redis data type. |
+| [AegisVault (玄钥)](https://github.com/AtomUICommunity/AegisVault) | A local-first, zero-knowledge password manager: encrypted SQLite vault (Argon2id + AES-256-GCM), no cloud sync, no telemetry, NativeAOT single-file builds for Windows, Linux and macOS. |
 
 ## Useful links
 

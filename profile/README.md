@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/AtomUICommunity.png" width="140" alt="AtomUI Community"/>
-
-# AtomUI Community
+<img src="./assets/atomui-community-banner.png" width="100%" alt="AtomUI Community"/>
 
 **Co-creating the UI foundation for AI-era software development.**
 

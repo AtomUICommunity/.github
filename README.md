@@ -58,7 +58,7 @@ feedback into it.
 
 | Project | What it is |
 | --- | --- |
-| [TCode](https://github.com/AtomUICommunity/TCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
+| [TCode](https://github.com/AtomUICommunity/TKCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
 | [StreamMark](https://github.com/AtomUICommunity/StreamMark) | Streaming-first Markdown rendering for Avalonia: frozen stable blocks, healed tail, native self-drawn text with no WebView. Backs TCode's chat views. |
 | [CxShell](https://github.com/AtomUICommunity/CxShell) | A cross-platform SSH/SFTP and remote session client: multi-tab terminal, transfer panels, server monitoring, RDP, and classic network or serial protocols in one workspace. |
 | [RedisMe](https://github.com/AtomUICommunity/RedisMe) | A native Redis desktop client with an accordion connection tree and tabbed key, status and CLI views. SCAN-based browsing and full editors for every Redis data type. |

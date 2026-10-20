@@ -58,11 +58,14 @@ feedback into it.
 
 | Project | What it is |
 | --- | --- |
-| [TCode](https://github.com/AtomUICommunity/TKCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
-| [StreamMark](https://github.com/AtomUICommunity/StreamMark) | Streaming-first Markdown rendering for Avalonia: frozen stable blocks, healed tail, native self-drawn text with no WebView. Backs TCode's chat views. |
+| [TKCode](https://github.com/AtomUICommunity/TKCode) | A native desktop AI agent client built with Avalonia and AtomUI — an early example of AI-era software built on AtomUI infrastructure. Multi-provider (OpenAI / Anthropic protocols), resumable local sessions, command palette, NativeAOT-ready. Early development. |
+| [StreamMark](https://github.com/AtomUICommunity/StreamMark) | Streaming-first Markdown rendering for Avalonia: frozen stable blocks, healed tail, native self-drawn text with no WebView. Backs TKCode's chat views. |
 | [CxShell](https://github.com/AtomUICommunity/CxShell) | A cross-platform SSH/SFTP and remote session client: multi-tab terminal, transfer panels, server monitoring, RDP, and classic network or serial protocols in one workspace. |
+| [AtomBox](https://github.com/AtomUICommunity/AtomBox) | A cross-platform desktop manager for OSS, FTP/SFTP and WebDAV storage: multi-account setup, bucket and directory browsing, uploads and downloads, and a transfer queue with history — all in one AtomUI workspace. |
 | [RedisMe](https://github.com/AtomUICommunity/RedisMe) | A native Redis desktop client with an accordion connection tree and tabbed key, status and CLI views. SCAN-based browsing and full editors for every Redis data type. |
+| [AtomPix](https://github.com/AtomUICommunity/AtomPix) | A local-first image toolkit: browse a folder in a fluid gallery, then compress, convert, resize or crop without uploading anything. Batch operations report real input and output sizes; no account or subscription required. |
 | [AegisVault (玄钥)](https://github.com/AtomUICommunity/AegisVault) | A local-first, zero-knowledge password manager: encrypted SQLite vault (Argon2id + AES-256-GCM), no cloud sync, no telemetry, NativeAOT single-file builds for Windows, Linux and macOS. |
+| [AtomNES](https://github.com/AtomUICommunity/AtomNES) | A cycle-accurate NES/Famicom emulator built on AtomUI: per-cycle 6502, dot-based PPU, 106 mappers, expansion audio, battery saves and a debugger — NativeAOT and trim-ready for Windows and Linux. |
 
 ## Useful links
 

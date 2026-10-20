@@ -38,16 +38,20 @@ We hold three beliefs:
 
 ## Projects
 
-Five projects, one foundation: an AI coding client and the streaming text layer behind it, plus
-native tools for the work developers do every day.
+Eight projects, one foundation: an AI coding client and the streaming text layer behind it,
+native tools for everyday developer work, and a cycle-accurate emulator that shows how far the
+foundation reaches.
 
 | Project | What it is |
 | --- | --- |
-| [TCode](https://github.com/AtomUICommunity/TKCode) | A desktop client for AI coding agents — software for the AI era, built on our foundation. |
+| [TKCode](https://github.com/AtomUICommunity/TKCode) | A desktop client for AI coding agents — software for the AI era, built on our foundation. |
 | [StreamMark](https://github.com/AtomUICommunity/StreamMark) | A native, streaming-first Markdown renderer for Avalonia — the text layer behind AI chat experiences. |
 | [CxShell](https://github.com/AtomUICommunity/CxShell) | A cross-platform remote session client: terminals, file transfer, server monitoring and remote desktops in one workspace. |
+| [AtomBox](https://github.com/AtomUICommunity/AtomBox) | A cross-platform remote storage manager for OSS, FTP/SFTP and WebDAV — browse, transfer and track files in one workspace. |
 | [RedisMe](https://github.com/AtomUICommunity/RedisMe) | A native Redis desktop client for browsing and editing data across standalone, Sentinel and Cluster deployments. |
+| [AtomPix](https://github.com/AtomUICommunity/AtomPix) | A local-first image toolkit for compressing, converting, resizing and cropping images — single files or whole batches, nothing uploaded. |
 | [AegisVault (玄钥)](https://github.com/AtomUICommunity/AegisVault) | A local-first, zero-knowledge password manager for Windows, macOS and Linux. |
+| [AtomNES](https://github.com/AtomUICommunity/AtomNES) | A cycle-accurate NES/Famicom emulator with 106 mappers and NativeAOT builds — proof that the foundation reaches beyond productivity software. |
 
 ## Build with us
 
